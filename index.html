@@ -28,7 +28,13 @@
 <p>Git/GitHub</p>
 <p>Photoshop</p>
 <h3 id="code-examples">Code Examples</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function squareSum(numbers)</code></pre></div></div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function squareSum(numbers){
+  var result=0;
+  numbers.forEach(function(item) {
+    result += Math.pow(item, 2);
+  });
+  return result;
+}</code></pre></div></div>
 <h3 id="education">Education</h3>
 <p>Belarusian National Technical University</p>
 <p>Information technology software</p>
