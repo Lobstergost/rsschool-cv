@@ -7,9 +7,9 @@ Phone: +375 33 387 10 03
 
 E-mail: lobstergost@gamil.com
 
-GitHub: Lobstergost
+GitHub: [Lobstergost](https://github.com/Lobstergost/)
 
-Telegram: Lobstergost
+Telegram: [Lobstergost](https://t.me/Lobstergost)
 
 Discord: Ivan Minau (@Lobstergost)
 
