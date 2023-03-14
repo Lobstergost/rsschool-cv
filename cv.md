@@ -9,7 +9,7 @@ E-mail: lobstergost@gamil.com
 
 GitHub: [Lobstergost](https://github.com/Lobstergost/)
 
-Telegram: [Lobstergost](https://t.me/Lobstergost)
+Telegram: [@Lobstergost](https://t.me/Lobstergost)
 
 Discord: Ivan Minau (@Lobstergost)
 
